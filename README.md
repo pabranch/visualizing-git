@@ -32,7 +32,7 @@ Available Git Commands:
 ```
 git branch
 git checkout
-git cherry_pick
+git cherry-pick
 git commit
 git fetch
 git log
@@ -42,7 +42,7 @@ git push
 git rebase
 git reflog
 git reset
-git rev_parse
+git rev-parse
 git revert
 git tag
 ```

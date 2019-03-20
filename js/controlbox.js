@@ -237,7 +237,7 @@ function(_yargs, d3, demos) {
         this.info('Available Git Commands:')
         this.info('`git branch`')
         this.info('`git checkout`')
-        this.info('`git cherry_pick`')
+        this.info('`git cherry-pick`')
         this.info('`git commit`')
         this.info('`git fetch`')
         this.info('`git log`')
@@ -247,7 +247,7 @@ function(_yargs, d3, demos) {
         this.info('`git rebase`')
         this.info('`git reflog`')
         this.info('`git reset`')
-        this.info('`git rev_parse`')
+        this.info('`git rev-parse`')
         this.info('`git revert`')
         this.info('`git tag`')
         return
